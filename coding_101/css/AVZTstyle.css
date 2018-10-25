@@ -1,0 +1,69 @@
+body {
+  background-color: white;
+  color: #002B3F;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 28px;
+}
+
+h1 {
+  color: #2fa4dd;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 48px;
+}
+
+.image {
+  width: 400px;
+  height: auto;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 40px;
+}
+
+div {
+  background-color: #ffffff;
+  display: inline-block;
+  line-height: 0;
+}
+
+div:hover img {
+  opacity: 0.5;
+}
+
+
+
+
+
+
+/* .container {
+  position: relative;
+  width: 50%;
+}
+
+.overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: (241,89,34,20);
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+  transform: scale(0);
+  transition: .3s ease;
+}
+
+.container:hover .overlay {
+  transform: scale(1);
+}
+
+.text {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+} */
